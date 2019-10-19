@@ -1,0 +1,7 @@
+This project is just an ATTiny84 programmed to:
+
+* Produce random voltages (after low-pass) on a pin using PWM.
+* Blink some lights.
+* Play a short melody with squarewave on a pin every once in a while.
+
+It was made for a box with a galvanometer, a pair of big red/green lights, and a speaker. It's not intended to do anything more usefull.
